@@ -1,0 +1,8 @@
+{
+  "name": "meo-potential",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve",
+    "build": "cp -r public dist"
+  }
+}

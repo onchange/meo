@@ -1,0 +1,22 @@
+{
+  "name": "meo-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:census": "tsx src/fetch-census.ts",
+    "fetch:population": "tsx src/fetch-population.ts",
+    "calculate": "tsx src/calculate-averages.ts",
+    "generate": "tsx src/generate-json.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^3.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}

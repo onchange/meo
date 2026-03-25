@@ -1,0 +1,2020 @@
+{
+  "national": {
+    "76": {
+      "totalEstablishments": 673731,
+      "totalPopulation": 163785117,
+      "perCapita": 41.14
+    },
+    "682": {
+      "totalEstablishments": 69319,
+      "totalPopulation": 163785117,
+      "perCapita": 4.23
+    },
+    "782": {
+      "totalEstablishments": 106252,
+      "totalPopulation": 163785117,
+      "perCapita": 6.49
+    },
+    "783": {
+      "totalEstablishments": 203144,
+      "totalPopulation": 163785117,
+      "perCapita": 12.4
+    },
+    "823": {
+      "totalEstablishments": 68403,
+      "totalPopulation": 163785117,
+      "perCapita": 4.18
+    },
+    "832": {
+      "totalEstablishments": 112146,
+      "totalPopulation": 163785117,
+      "perCapita": 6.85
+    },
+    "833": {
+      "totalEstablishments": 87871,
+      "totalPopulation": 163785117,
+      "perCapita": 5.37
+    },
+    "835": {
+      "totalEstablishments": 103983,
+      "totalPopulation": 163785117,
+      "perCapita": 6.35
+    }
+  },
+  "prefecture": {
+    "10": {
+      "76": {
+        "totalEstablishments": 7148,
+        "totalPopulation": 1940333,
+        "perCapita": 36.84
+      },
+      "682": {
+        "totalEstablishments": 575,
+        "totalPopulation": 1940333,
+        "perCapita": 2.96
+      },
+      "782": {
+        "totalEstablishments": 1671,
+        "totalPopulation": 1940333,
+        "perCapita": 8.61
+      },
+      "783": {
+        "totalEstablishments": 3100,
+        "totalPopulation": 1940333,
+        "perCapita": 15.98
+      },
+      "823": {
+        "totalEstablishments": 764,
+        "totalPopulation": 1940333,
+        "perCapita": 3.94
+      },
+      "832": {
+        "totalEstablishments": 1251,
+        "totalPopulation": 1940333,
+        "perCapita": 6.45
+      },
+      "833": {
+        "totalEstablishments": 937,
+        "totalPopulation": 1940333,
+        "perCapita": 4.83
+      },
+      "835": {
+        "totalEstablishments": 1176,
+        "totalPopulation": 1940333,
+        "perCapita": 6.06
+      }
+    },
+    "11": {
+      "76": {
+        "totalEstablishments": 23246,
+        "totalPopulation": 8671427,
+        "perCapita": 26.81
+      },
+      "682": {
+        "totalEstablishments": 3045,
+        "totalPopulation": 8671427,
+        "perCapita": 3.51
+      },
+      "782": {
+        "totalEstablishments": 4792,
+        "totalPopulation": 8671427,
+        "perCapita": 5.53
+      },
+      "783": {
+        "totalEstablishments": 8428,
+        "totalPopulation": 8671427,
+        "perCapita": 9.72
+      },
+      "823": {
+        "totalEstablishments": 3637,
+        "totalPopulation": 8671427,
+        "perCapita": 4.19
+      },
+      "832": {
+        "totalEstablishments": 4355,
+        "totalPopulation": 8671427,
+        "perCapita": 5.02
+      },
+      "833": {
+        "totalEstablishments": 4012,
+        "totalPopulation": 8671427,
+        "perCapita": 4.63
+      },
+      "835": {
+        "totalEstablishments": 4829,
+        "totalPopulation": 8671427,
+        "perCapita": 5.57
+      }
+    },
+    "12": {
+      "76": {
+        "totalEstablishments": 19497,
+        "totalPopulation": 7262244,
+        "perCapita": 26.85
+      },
+      "682": {
+        "totalEstablishments": 2131,
+        "totalPopulation": 7262244,
+        "perCapita": 2.93
+      },
+      "782": {
+        "totalEstablishments": 4298,
+        "totalPopulation": 7262244,
+        "perCapita": 5.92
+      },
+      "783": {
+        "totalEstablishments": 6945,
+        "totalPopulation": 7262244,
+        "perCapita": 9.56
+      },
+      "823": {
+        "totalEstablishments": 2907,
+        "totalPopulation": 7262244,
+        "perCapita": 4
+      },
+      "832": {
+        "totalEstablishments": 3526,
+        "totalPopulation": 7262244,
+        "perCapita": 4.86
+      },
+      "833": {
+        "totalEstablishments": 3566,
+        "totalPopulation": 7262244,
+        "perCapita": 4.91
+      },
+      "835": {
+        "totalEstablishments": 3418,
+        "totalPopulation": 7262244,
+        "perCapita": 4.71
+      }
+    },
+    "13": {
+      "76": {
+        "totalEstablishments": 121497,
+        "totalPopulation": 23809230,
+        "perCapita": 51.03
+      },
+      "682": {
+        "totalEstablishments": 17367,
+        "totalPopulation": 23809230,
+        "perCapita": 7.29
+      },
+      "782": {
+        "totalEstablishments": 10419,
+        "totalPopulation": 23809230,
+        "perCapita": 4.38
+      },
+      "783": {
+        "totalEstablishments": 23253,
+        "totalPopulation": 23809230,
+        "perCapita": 9.77
+      },
+      "823": {
+        "totalEstablishments": 8540,
+        "totalPopulation": 23809230,
+        "perCapita": 3.59
+      },
+      "832": {
+        "totalEstablishments": 19438,
+        "totalPopulation": 23809230,
+        "perCapita": 8.16
+      },
+      "833": {
+        "totalEstablishments": 17152,
+        "totalPopulation": 23809230,
+        "perCapita": 7.2
+      },
+      "835": {
+        "totalEstablishments": 16368,
+        "totalPopulation": 23809230,
+        "perCapita": 6.87
+      }
+    },
+    "14": {
+      "76": {
+        "totalEstablishments": 45261,
+        "totalPopulation": 15283112,
+        "perCapita": 29.62
+      },
+      "682": {
+        "totalEstablishments": 6254,
+        "totalPopulation": 15283112,
+        "perCapita": 4.09
+      },
+      "782": {
+        "totalEstablishments": 6160,
+        "totalPopulation": 15283112,
+        "perCapita": 4.03
+      },
+      "783": {
+        "totalEstablishments": 12624,
+        "totalPopulation": 15283112,
+        "perCapita": 8.26
+      },
+      "823": {
+        "totalEstablishments": 6449,
+        "totalPopulation": 15283112,
+        "perCapita": 4.22
+      },
+      "832": {
+        "totalEstablishments": 9557,
+        "totalPopulation": 15283112,
+        "perCapita": 6.25
+      },
+      "833": {
+        "totalEstablishments": 7747,
+        "totalPopulation": 15283112,
+        "perCapita": 5.07
+      },
+      "835": {
+        "totalEstablishments": 7992,
+        "totalPopulation": 15283112,
+        "perCapita": 5.23
+      }
+    },
+    "15": {
+      "76": {
+        "totalEstablishments": 11477,
+        "totalPopulation": 2992073,
+        "perCapita": 38.36
+      },
+      "682": {
+        "totalEstablishments": 758,
+        "totalPopulation": 2992073,
+        "perCapita": 2.53
+      },
+      "782": {
+        "totalEstablishments": 3354,
+        "totalPopulation": 2992073,
+        "perCapita": 11.21
+      },
+      "783": {
+        "totalEstablishments": 5323,
+        "totalPopulation": 2992073,
+        "perCapita": 17.79
+      },
+      "823": {
+        "totalEstablishments": 1240,
+        "totalPopulation": 2992073,
+        "perCapita": 4.14
+      },
+      "832": {
+        "totalEstablishments": 1698,
+        "totalPopulation": 2992073,
+        "perCapita": 5.67
+      },
+      "833": {
+        "totalEstablishments": 1566,
+        "totalPopulation": 2992073,
+        "perCapita": 5.23
+      },
+      "835": {
+        "totalEstablishments": 1756,
+        "totalPopulation": 2992073,
+        "perCapita": 5.87
+      }
+    },
+    "16": {
+      "76": {
+        "totalEstablishments": 3979,
+        "totalPopulation": 1035612,
+        "perCapita": 38.42
+      },
+      "682": {
+        "totalEstablishments": 260,
+        "totalPopulation": 1035612,
+        "perCapita": 2.51
+      },
+      "782": {
+        "totalEstablishments": 921,
+        "totalPopulation": 1035612,
+        "perCapita": 8.89
+      },
+      "783": {
+        "totalEstablishments": 1811,
+        "totalPopulation": 1035612,
+        "perCapita": 17.49
+      },
+      "823": {
+        "totalEstablishments": 384,
+        "totalPopulation": 1035612,
+        "perCapita": 3.71
+      },
+      "832": {
+        "totalEstablishments": 607,
+        "totalPopulation": 1035612,
+        "perCapita": 5.86
+      },
+      "833": {
+        "totalEstablishments": 419,
+        "totalPopulation": 1035612,
+        "perCapita": 4.05
+      },
+      "835": {
+        "totalEstablishments": 863,
+        "totalPopulation": 1035612,
+        "perCapita": 8.33
+      }
+    },
+    "17": {
+      "76": {
+        "totalEstablishments": 5235,
+        "totalPopulation": 1133294,
+        "perCapita": 46.19
+      },
+      "682": {
+        "totalEstablishments": 358,
+        "totalPopulation": 1133294,
+        "perCapita": 3.16
+      },
+      "782": {
+        "totalEstablishments": 974,
+        "totalPopulation": 1133294,
+        "perCapita": 8.59
+      },
+      "783": {
+        "totalEstablishments": 1829,
+        "totalPopulation": 1133294,
+        "perCapita": 16.14
+      },
+      "823": {
+        "totalEstablishments": 472,
+        "totalPopulation": 1133294,
+        "perCapita": 4.16
+      },
+      "832": {
+        "totalEstablishments": 696,
+        "totalPopulation": 1133294,
+        "perCapita": 6.14
+      },
+      "833": {
+        "totalEstablishments": 457,
+        "totalPopulation": 1133294,
+        "perCapita": 4.03
+      },
+      "835": {
+        "totalEstablishments": 775,
+        "totalPopulation": 1133294,
+        "perCapita": 6.84
+      }
+    },
+    "18": {
+      "76": {
+        "totalEstablishments": 3632,
+        "totalPopulation": 767433,
+        "perCapita": 47.33
+      },
+      "682": {
+        "totalEstablishments": 162,
+        "totalPopulation": 767433,
+        "perCapita": 2.11
+      },
+      "782": {
+        "totalEstablishments": 705,
+        "totalPopulation": 767433,
+        "perCapita": 9.19
+      },
+      "783": {
+        "totalEstablishments": 1365,
+        "totalPopulation": 767433,
+        "perCapita": 17.79
+      },
+      "823": {
+        "totalEstablishments": 325,
+        "totalPopulation": 767433,
+        "perCapita": 4.23
+      },
+      "832": {
+        "totalEstablishments": 433,
+        "totalPopulation": 767433,
+        "perCapita": 5.64
+      },
+      "833": {
+        "totalEstablishments": 286,
+        "totalPopulation": 767433,
+        "perCapita": 3.73
+      },
+      "835": {
+        "totalEstablishments": 498,
+        "totalPopulation": 767433,
+        "perCapita": 6.49
+      }
+    },
+    "19": {
+      "76": {
+        "totalEstablishments": 4096,
+        "totalPopulation": 810427,
+        "perCapita": 50.54
+      },
+      "682": {
+        "totalEstablishments": 243,
+        "totalPopulation": 810427,
+        "perCapita": 3
+      },
+      "782": {
+        "totalEstablishments": 636,
+        "totalPopulation": 810427,
+        "perCapita": 7.85
+      },
+      "783": {
+        "totalEstablishments": 1405,
+        "totalPopulation": 810427,
+        "perCapita": 17.34
+      },
+      "823": {
+        "totalEstablishments": 363,
+        "totalPopulation": 810427,
+        "perCapita": 4.48
+      },
+      "832": {
+        "totalEstablishments": 522,
+        "totalPopulation": 810427,
+        "perCapita": 6.44
+      },
+      "833": {
+        "totalEstablishments": 420,
+        "totalPopulation": 810427,
+        "perCapita": 5.18
+      },
+      "835": {
+        "totalEstablishments": 549,
+        "totalPopulation": 810427,
+        "perCapita": 6.77
+      }
+    },
+    "20": {
+      "76": {
+        "totalEstablishments": 9382,
+        "totalPopulation": 2049683,
+        "perCapita": 45.77
+      },
+      "682": {
+        "totalEstablishments": 484,
+        "totalPopulation": 2049683,
+        "perCapita": 2.36
+      },
+      "782": {
+        "totalEstablishments": 1586,
+        "totalPopulation": 2049683,
+        "perCapita": 7.74
+      },
+      "783": {
+        "totalEstablishments": 3433,
+        "totalPopulation": 2049683,
+        "perCapita": 16.75
+      },
+      "823": {
+        "totalEstablishments": 895,
+        "totalPopulation": 2049683,
+        "perCapita": 4.37
+      },
+      "832": {
+        "totalEstablishments": 1218,
+        "totalPopulation": 2049683,
+        "perCapita": 5.94
+      },
+      "833": {
+        "totalEstablishments": 966,
+        "totalPopulation": 2049683,
+        "perCapita": 4.71
+      },
+      "835": {
+        "totalEstablishments": 1407,
+        "totalPopulation": 2049683,
+        "perCapita": 6.86
+      }
+    },
+    "21": {
+      "76": {
+        "totalEstablishments": 8939,
+        "totalPopulation": 1979781,
+        "perCapita": 45.15
+      },
+      "682": {
+        "totalEstablishments": 452,
+        "totalPopulation": 1979781,
+        "perCapita": 2.28
+      },
+      "782": {
+        "totalEstablishments": 1583,
+        "totalPopulation": 1979781,
+        "perCapita": 8
+      },
+      "783": {
+        "totalEstablishments": 3070,
+        "totalPopulation": 1979781,
+        "perCapita": 15.51
+      },
+      "823": {
+        "totalEstablishments": 1054,
+        "totalPopulation": 1979781,
+        "perCapita": 5.32
+      },
+      "832": {
+        "totalEstablishments": 1261,
+        "totalPopulation": 1979781,
+        "perCapita": 6.37
+      },
+      "833": {
+        "totalEstablishments": 913,
+        "totalPopulation": 1979781,
+        "perCapita": 4.61
+      },
+      "835": {
+        "totalEstablishments": 1668,
+        "totalPopulation": 1979781,
+        "perCapita": 8.43
+      }
+    },
+    "22": {
+      "76": {
+        "totalEstablishments": 21226,
+        "totalPopulation": 5120134,
+        "perCapita": 41.46
+      },
+      "682": {
+        "totalEstablishments": 1724,
+        "totalPopulation": 5120134,
+        "perCapita": 3.37
+      },
+      "782": {
+        "totalEstablishments": 3911,
+        "totalPopulation": 5120134,
+        "perCapita": 7.64
+      },
+      "783": {
+        "totalEstablishments": 7866,
+        "totalPopulation": 5120134,
+        "perCapita": 15.36
+      },
+      "823": {
+        "totalEstablishments": 2295,
+        "totalPopulation": 5120134,
+        "perCapita": 4.48
+      },
+      "832": {
+        "totalEstablishments": 3214,
+        "totalPopulation": 5120134,
+        "perCapita": 6.28
+      },
+      "833": {
+        "totalEstablishments": 2400,
+        "totalPopulation": 5120134,
+        "perCapita": 4.69
+      },
+      "835": {
+        "totalEstablishments": 3375,
+        "totalPopulation": 5120134,
+        "perCapita": 6.59
+      }
+    },
+    "23": {
+      "76": {
+        "totalEstablishments": 42423,
+        "totalPopulation": 9879598,
+        "perCapita": 42.94
+      },
+      "682": {
+        "totalEstablishments": 4192,
+        "totalPopulation": 9879598,
+        "perCapita": 4.24
+      },
+      "782": {
+        "totalEstablishments": 5586,
+        "totalPopulation": 9879598,
+        "perCapita": 5.65
+      },
+      "783": {
+        "totalEstablishments": 11253,
+        "totalPopulation": 9879598,
+        "perCapita": 11.39
+      },
+      "823": {
+        "totalEstablishments": 4804,
+        "totalPopulation": 9879598,
+        "perCapita": 4.86
+      },
+      "832": {
+        "totalEstablishments": 6345,
+        "totalPopulation": 9879598,
+        "perCapita": 6.42
+      },
+      "833": {
+        "totalEstablishments": 4951,
+        "totalPopulation": 9879598,
+        "perCapita": 5.01
+      },
+      "835": {
+        "totalEstablishments": 6559,
+        "totalPopulation": 9879598,
+        "perCapita": 6.64
+      }
+    },
+    "24": {
+      "76": {
+        "totalEstablishments": 6381,
+        "totalPopulation": 1771440,
+        "perCapita": 36.02
+      },
+      "682": {
+        "totalEstablishments": 359,
+        "totalPopulation": 1771440,
+        "perCapita": 2.03
+      },
+      "782": {
+        "totalEstablishments": 1303,
+        "totalPopulation": 1771440,
+        "perCapita": 7.36
+      },
+      "783": {
+        "totalEstablishments": 2493,
+        "totalPopulation": 1771440,
+        "perCapita": 14.07
+      },
+      "823": {
+        "totalEstablishments": 818,
+        "totalPopulation": 1771440,
+        "perCapita": 4.62
+      },
+      "832": {
+        "totalEstablishments": 1218,
+        "totalPopulation": 1771440,
+        "perCapita": 6.88
+      },
+      "833": {
+        "totalEstablishments": 785,
+        "totalPopulation": 1771440,
+        "perCapita": 4.43
+      },
+      "835": {
+        "totalEstablishments": 850,
+        "totalPopulation": 1771440,
+        "perCapita": 4.8
+      }
+    },
+    "25": {
+      "76": {
+        "totalEstablishments": 4236,
+        "totalPopulation": 1414248,
+        "perCapita": 29.95
+      },
+      "682": {
+        "totalEstablishments": 331,
+        "totalPopulation": 1414248,
+        "perCapita": 2.34
+      },
+      "782": {
+        "totalEstablishments": 799,
+        "totalPopulation": 1414248,
+        "perCapita": 5.65
+      },
+      "783": {
+        "totalEstablishments": 1614,
+        "totalPopulation": 1414248,
+        "perCapita": 11.41
+      },
+      "823": {
+        "totalEstablishments": 728,
+        "totalPopulation": 1414248,
+        "perCapita": 5.15
+      },
+      "832": {
+        "totalEstablishments": 851,
+        "totalPopulation": 1414248,
+        "perCapita": 6.02
+      },
+      "833": {
+        "totalEstablishments": 542,
+        "totalPopulation": 1414248,
+        "perCapita": 3.83
+      },
+      "835": {
+        "totalEstablishments": 830,
+        "totalPopulation": 1414248,
+        "perCapita": 5.87
+      }
+    },
+    "26": {
+      "76": {
+        "totalEstablishments": 19933,
+        "totalPopulation": 4044811,
+        "perCapita": 49.28
+      },
+      "682": {
+        "totalEstablishments": 1824,
+        "totalPopulation": 4044811,
+        "perCapita": 4.51
+      },
+      "782": {
+        "totalEstablishments": 2190,
+        "totalPopulation": 4044811,
+        "perCapita": 5.41
+      },
+      "783": {
+        "totalEstablishments": 5070,
+        "totalPopulation": 4044811,
+        "perCapita": 12.53
+      },
+      "823": {
+        "totalEstablishments": 1840,
+        "totalPopulation": 4044811,
+        "perCapita": 4.55
+      },
+      "832": {
+        "totalEstablishments": 3382,
+        "totalPopulation": 4044811,
+        "perCapita": 8.36
+      },
+      "833": {
+        "totalEstablishments": 1951,
+        "totalPopulation": 4044811,
+        "perCapita": 4.82
+      },
+      "835": {
+        "totalEstablishments": 3082,
+        "totalPopulation": 4044811,
+        "perCapita": 7.62
+      }
+    },
+    "27": {
+      "76": {
+        "totalEstablishments": 62814,
+        "totalPopulation": 12423712,
+        "perCapita": 50.56
+      },
+      "682": {
+        "totalEstablishments": 7165,
+        "totalPopulation": 12423712,
+        "perCapita": 5.77
+      },
+      "782": {
+        "totalEstablishments": 6480,
+        "totalPopulation": 12423712,
+        "perCapita": 5.22
+      },
+      "783": {
+        "totalEstablishments": 13723,
+        "totalPopulation": 12423712,
+        "perCapita": 11.05
+      },
+      "823": {
+        "totalEstablishments": 5475,
+        "totalPopulation": 12423712,
+        "perCapita": 4.41
+      },
+      "832": {
+        "totalEstablishments": 10908,
+        "totalPopulation": 12423712,
+        "perCapita": 8.78
+      },
+      "833": {
+        "totalEstablishments": 7743,
+        "totalPopulation": 12423712,
+        "perCapita": 6.23
+      },
+      "835": {
+        "totalEstablishments": 10762,
+        "totalPopulation": 12423712,
+        "perCapita": 8.66
+      }
+    },
+    "28": {
+      "76": {
+        "totalEstablishments": 30056,
+        "totalPopulation": 6996206,
+        "perCapita": 42.96
+      },
+      "682": {
+        "totalEstablishments": 2954,
+        "totalPopulation": 6996206,
+        "perCapita": 4.22
+      },
+      "782": {
+        "totalEstablishments": 3623,
+        "totalPopulation": 6996206,
+        "perCapita": 5.18
+      },
+      "783": {
+        "totalEstablishments": 7970,
+        "totalPopulation": 6996206,
+        "perCapita": 11.39
+      },
+      "823": {
+        "totalEstablishments": 3534,
+        "totalPopulation": 6996206,
+        "perCapita": 5.05
+      },
+      "832": {
+        "totalEstablishments": 5648,
+        "totalPopulation": 6996206,
+        "perCapita": 8.07
+      },
+      "833": {
+        "totalEstablishments": 3708,
+        "totalPopulation": 6996206,
+        "perCapita": 5.3
+      },
+      "835": {
+        "totalEstablishments": 4341,
+        "totalPopulation": 6996206,
+        "perCapita": 6.2
+      }
+    },
+    "29": {
+      "76": {
+        "totalEstablishments": 3764,
+        "totalPopulation": 1325437,
+        "perCapita": 28.4
+      },
+      "682": {
+        "totalEstablishments": 344,
+        "totalPopulation": 1325437,
+        "perCapita": 2.6
+      },
+      "782": {
+        "totalEstablishments": 703,
+        "totalPopulation": 1325437,
+        "perCapita": 5.3
+      },
+      "783": {
+        "totalEstablishments": 1497,
+        "totalPopulation": 1325437,
+        "perCapita": 11.29
+      },
+      "823": {
+        "totalEstablishments": 716,
+        "totalPopulation": 1325437,
+        "perCapita": 5.4
+      },
+      "832": {
+        "totalEstablishments": 1009,
+        "totalPopulation": 1325437,
+        "perCapita": 7.61
+      },
+      "833": {
+        "totalEstablishments": 644,
+        "totalPopulation": 1325437,
+        "perCapita": 4.86
+      },
+      "835": {
+        "totalEstablishments": 841,
+        "totalPopulation": 1325437,
+        "perCapita": 6.35
+      }
+    },
+    "30": {
+      "76": {
+        "totalEstablishments": 4215,
+        "totalPopulation": 923033,
+        "perCapita": 45.66
+      },
+      "682": {
+        "totalEstablishments": 251,
+        "totalPopulation": 923033,
+        "perCapita": 2.72
+      },
+      "782": {
+        "totalEstablishments": 840,
+        "totalPopulation": 923033,
+        "perCapita": 9.1
+      },
+      "783": {
+        "totalEstablishments": 1546,
+        "totalPopulation": 923033,
+        "perCapita": 16.75
+      },
+      "823": {
+        "totalEstablishments": 571,
+        "totalPopulation": 923033,
+        "perCapita": 6.19
+      },
+      "832": {
+        "totalEstablishments": 850,
+        "totalPopulation": 923033,
+        "perCapita": 9.21
+      },
+      "833": {
+        "totalEstablishments": 505,
+        "totalPopulation": 923033,
+        "perCapita": 5.47
+      },
+      "835": {
+        "totalEstablishments": 869,
+        "totalPopulation": 923033,
+        "perCapita": 9.41
+      }
+    },
+    "31": {
+      "76": {
+        "totalEstablishments": 2293,
+        "totalPopulation": 553847,
+        "perCapita": 41.4
+      },
+      "682": {
+        "totalEstablishments": 107,
+        "totalPopulation": 553847,
+        "perCapita": 1.93
+      },
+      "782": {
+        "totalEstablishments": 479,
+        "totalPopulation": 553847,
+        "perCapita": 8.65
+      },
+      "783": {
+        "totalEstablishments": 1023,
+        "totalPopulation": 553847,
+        "perCapita": 18.47
+      },
+      "823": {
+        "totalEstablishments": 275,
+        "totalPopulation": 553847,
+        "perCapita": 4.97
+      },
+      "832": {
+        "totalEstablishments": 393,
+        "totalPopulation": 553847,
+        "perCapita": 7.1
+      },
+      "833": {
+        "totalEstablishments": 242,
+        "totalPopulation": 553847,
+        "perCapita": 4.37
+      },
+      "835": {
+        "totalEstablishments": 268,
+        "totalPopulation": 553847,
+        "perCapita": 4.84
+      }
+    },
+    "32": {
+      "76": {
+        "totalEstablishments": 2555,
+        "totalPopulation": 671602,
+        "perCapita": 38.04
+      },
+      "682": {
+        "totalEstablishments": 135,
+        "totalPopulation": 671602,
+        "perCapita": 2.01
+      },
+      "782": {
+        "totalEstablishments": 726,
+        "totalPopulation": 671602,
+        "perCapita": 10.81
+      },
+      "783": {
+        "totalEstablishments": 1231,
+        "totalPopulation": 671602,
+        "perCapita": 18.33
+      },
+      "823": {
+        "totalEstablishments": 248,
+        "totalPopulation": 671602,
+        "perCapita": 3.69
+      },
+      "832": {
+        "totalEstablishments": 498,
+        "totalPopulation": 671602,
+        "perCapita": 7.42
+      },
+      "833": {
+        "totalEstablishments": 239,
+        "totalPopulation": 671602,
+        "perCapita": 3.56
+      },
+      "835": {
+        "totalEstablishments": 337,
+        "totalPopulation": 671602,
+        "perCapita": 5.02
+      }
+    },
+    "33": {
+      "76": {
+        "totalEstablishments": 9303,
+        "totalPopulation": 2614715,
+        "perCapita": 35.58
+      },
+      "682": {
+        "totalEstablishments": 920,
+        "totalPopulation": 2614715,
+        "perCapita": 3.52
+      },
+      "782": {
+        "totalEstablishments": 1885,
+        "totalPopulation": 2614715,
+        "perCapita": 7.21
+      },
+      "783": {
+        "totalEstablishments": 3859,
+        "totalPopulation": 2614715,
+        "perCapita": 14.76
+      },
+      "823": {
+        "totalEstablishments": 1197,
+        "totalPopulation": 2614715,
+        "perCapita": 4.58
+      },
+      "832": {
+        "totalEstablishments": 1858,
+        "totalPopulation": 2614715,
+        "perCapita": 7.11
+      },
+      "833": {
+        "totalEstablishments": 1397,
+        "totalPopulation": 2614715,
+        "perCapita": 5.34
+      },
+      "835": {
+        "totalEstablishments": 1379,
+        "totalPopulation": 2614715,
+        "perCapita": 5.27
+      }
+    },
+    "34": {
+      "76": {
+        "totalEstablishments": 17057,
+        "totalPopulation": 4002669,
+        "perCapita": 42.61
+      },
+      "682": {
+        "totalEstablishments": 1755,
+        "totalPopulation": 4002669,
+        "perCapita": 4.38
+      },
+      "782": {
+        "totalEstablishments": 2721,
+        "totalPopulation": 4002669,
+        "perCapita": 6.8
+      },
+      "783": {
+        "totalEstablishments": 5676,
+        "totalPopulation": 4002669,
+        "perCapita": 14.18
+      },
+      "823": {
+        "totalEstablishments": 2019,
+        "totalPopulation": 4002669,
+        "perCapita": 5.04
+      },
+      "832": {
+        "totalEstablishments": 3203,
+        "totalPopulation": 4002669,
+        "perCapita": 8
+      },
+      "833": {
+        "totalEstablishments": 2172,
+        "totalPopulation": 4002669,
+        "perCapita": 5.43
+      },
+      "835": {
+        "totalEstablishments": 2525,
+        "totalPopulation": 4002669,
+        "perCapita": 6.31
+      }
+    },
+    "35": {
+      "76": {
+        "totalEstablishments": 4824,
+        "totalPopulation": 1342987,
+        "perCapita": 35.92
+      },
+      "682": {
+        "totalEstablishments": 326,
+        "totalPopulation": 1342987,
+        "perCapita": 2.43
+      },
+      "782": {
+        "totalEstablishments": 1045,
+        "totalPopulation": 1342987,
+        "perCapita": 7.78
+      },
+      "783": {
+        "totalEstablishments": 2095,
+        "totalPopulation": 1342987,
+        "perCapita": 15.6
+      },
+      "823": {
+        "totalEstablishments": 609,
+        "totalPopulation": 1342987,
+        "perCapita": 4.53
+      },
+      "832": {
+        "totalEstablishments": 1001,
+        "totalPopulation": 1342987,
+        "perCapita": 7.45
+      },
+      "833": {
+        "totalEstablishments": 635,
+        "totalPopulation": 1342987,
+        "perCapita": 4.73
+      },
+      "835": {
+        "totalEstablishments": 712,
+        "totalPopulation": 1342987,
+        "perCapita": 5.3
+      }
+    },
+    "36": {
+      "76": {
+        "totalEstablishments": 3097,
+        "totalPopulation": 719704,
+        "perCapita": 43.03
+      },
+      "682": {
+        "totalEstablishments": 257,
+        "totalPopulation": 719704,
+        "perCapita": 3.57
+      },
+      "782": {
+        "totalEstablishments": 712,
+        "totalPopulation": 719704,
+        "perCapita": 9.89
+      },
+      "783": {
+        "totalEstablishments": 1336,
+        "totalPopulation": 719704,
+        "perCapita": 18.56
+      },
+      "823": {
+        "totalEstablishments": 451,
+        "totalPopulation": 719704,
+        "perCapita": 6.27
+      },
+      "832": {
+        "totalEstablishments": 566,
+        "totalPopulation": 719704,
+        "perCapita": 7.86
+      },
+      "833": {
+        "totalEstablishments": 418,
+        "totalPopulation": 719704,
+        "perCapita": 5.81
+      },
+      "835": {
+        "totalEstablishments": 462,
+        "totalPopulation": 719704,
+        "perCapita": 6.42
+      }
+    },
+    "37": {
+      "76": {
+        "totalEstablishments": 4057,
+        "totalPopulation": 951049,
+        "perCapita": 42.66
+      },
+      "682": {
+        "totalEstablishments": 347,
+        "totalPopulation": 951049,
+        "perCapita": 3.65
+      },
+      "782": {
+        "totalEstablishments": 742,
+        "totalPopulation": 951049,
+        "perCapita": 7.8
+      },
+      "783": {
+        "totalEstablishments": 1504,
+        "totalPopulation": 951049,
+        "perCapita": 15.81
+      },
+      "823": {
+        "totalEstablishments": 548,
+        "totalPopulation": 951049,
+        "perCapita": 5.76
+      },
+      "832": {
+        "totalEstablishments": 681,
+        "totalPopulation": 951049,
+        "perCapita": 7.16
+      },
+      "833": {
+        "totalEstablishments": 459,
+        "totalPopulation": 951049,
+        "perCapita": 4.83
+      },
+      "835": {
+        "totalEstablishments": 729,
+        "totalPopulation": 951049,
+        "perCapita": 7.67
+      }
+    },
+    "38": {
+      "76": {
+        "totalEstablishments": 5409,
+        "totalPopulation": 1335694,
+        "perCapita": 40.5
+      },
+      "682": {
+        "totalEstablishments": 380,
+        "totalPopulation": 1335694,
+        "perCapita": 2.84
+      },
+      "782": {
+        "totalEstablishments": 1258,
+        "totalPopulation": 1335694,
+        "perCapita": 9.42
+      },
+      "783": {
+        "totalEstablishments": 2221,
+        "totalPopulation": 1335694,
+        "perCapita": 16.63
+      },
+      "823": {
+        "totalEstablishments": 643,
+        "totalPopulation": 1335694,
+        "perCapita": 4.81
+      },
+      "832": {
+        "totalEstablishments": 956,
+        "totalPopulation": 1335694,
+        "perCapita": 7.16
+      },
+      "833": {
+        "totalEstablishments": 642,
+        "totalPopulation": 1335694,
+        "perCapita": 4.81
+      },
+      "835": {
+        "totalEstablishments": 864,
+        "totalPopulation": 1335694,
+        "perCapita": 6.47
+      }
+    },
+    "39": {
+      "76": {
+        "totalEstablishments": 3809,
+        "totalPopulation": 692065,
+        "perCapita": 55.04
+      },
+      "682": {
+        "totalEstablishments": 245,
+        "totalPopulation": 692065,
+        "perCapita": 3.54
+      },
+      "782": {
+        "totalEstablishments": 671,
+        "totalPopulation": 692065,
+        "perCapita": 9.7
+      },
+      "783": {
+        "totalEstablishments": 1393,
+        "totalPopulation": 692065,
+        "perCapita": 20.13
+      },
+      "823": {
+        "totalEstablishments": 335,
+        "totalPopulation": 692065,
+        "perCapita": 4.84
+      },
+      "832": {
+        "totalEstablishments": 395,
+        "totalPopulation": 692065,
+        "perCapita": 5.71
+      },
+      "833": {
+        "totalEstablishments": 344,
+        "totalPopulation": 692065,
+        "perCapita": 4.97
+      },
+      "835": {
+        "totalEstablishments": 428,
+        "totalPopulation": 692065,
+        "perCapita": 6.18
+      }
+    },
+    "40": {
+      "76": {
+        "totalEstablishments": 33838,
+        "totalPopulation": 7691874,
+        "perCapita": 43.99
+      },
+      "682": {
+        "totalEstablishments": 3838,
+        "totalPopulation": 7691874,
+        "perCapita": 4.99
+      },
+      "782": {
+        "totalEstablishments": 4545,
+        "totalPopulation": 7691874,
+        "perCapita": 5.91
+      },
+      "783": {
+        "totalEstablishments": 10077,
+        "totalPopulation": 7691874,
+        "perCapita": 13.1
+      },
+      "823": {
+        "totalEstablishments": 2858,
+        "totalPopulation": 7691874,
+        "perCapita": 3.72
+      },
+      "832": {
+        "totalEstablishments": 6091,
+        "totalPopulation": 7691874,
+        "perCapita": 7.92
+      },
+      "833": {
+        "totalEstablishments": 4563,
+        "totalPopulation": 7691874,
+        "perCapita": 5.93
+      },
+      "835": {
+        "totalEstablishments": 4910,
+        "totalPopulation": 7691874,
+        "perCapita": 6.38
+      }
+    },
+    "41": {
+      "76": {
+        "totalEstablishments": 3447,
+        "totalPopulation": 812013,
+        "perCapita": 42.45
+      },
+      "682": {
+        "totalEstablishments": 191,
+        "totalPopulation": 812013,
+        "perCapita": 2.35
+      },
+      "782": {
+        "totalEstablishments": 649,
+        "totalPopulation": 812013,
+        "perCapita": 7.99
+      },
+      "783": {
+        "totalEstablishments": 1239,
+        "totalPopulation": 812013,
+        "perCapita": 15.26
+      },
+      "823": {
+        "totalEstablishments": 348,
+        "totalPopulation": 812013,
+        "perCapita": 4.29
+      },
+      "832": {
+        "totalEstablishments": 556,
+        "totalPopulation": 812013,
+        "perCapita": 6.85
+      },
+      "833": {
+        "totalEstablishments": 398,
+        "totalPopulation": 812013,
+        "perCapita": 4.9
+      },
+      "835": {
+        "totalEstablishments": 578,
+        "totalPopulation": 812013,
+        "perCapita": 7.12
+      }
+    },
+    "42": {
+      "76": {
+        "totalEstablishments": 5522,
+        "totalPopulation": 1313103,
+        "perCapita": 42.05
+      },
+      "682": {
+        "totalEstablishments": 436,
+        "totalPopulation": 1313103,
+        "perCapita": 3.32
+      },
+      "782": {
+        "totalEstablishments": 1125,
+        "totalPopulation": 1313103,
+        "perCapita": 8.57
+      },
+      "783": {
+        "totalEstablishments": 2213,
+        "totalPopulation": 1313103,
+        "perCapita": 16.85
+      },
+      "823": {
+        "totalEstablishments": 492,
+        "totalPopulation": 1313103,
+        "perCapita": 3.75
+      },
+      "832": {
+        "totalEstablishments": 1056,
+        "totalPopulation": 1313103,
+        "perCapita": 8.04
+      },
+      "833": {
+        "totalEstablishments": 695,
+        "totalPopulation": 1313103,
+        "perCapita": 5.29
+      },
+      "835": {
+        "totalEstablishments": 930,
+        "totalPopulation": 1313103,
+        "perCapita": 7.08
+      }
+    },
+    "43": {
+      "76": {
+        "totalEstablishments": 9262,
+        "totalPopulation": 2477955,
+        "perCapita": 37.38
+      },
+      "682": {
+        "totalEstablishments": 1099,
+        "totalPopulation": 2477955,
+        "perCapita": 4.44
+      },
+      "782": {
+        "totalEstablishments": 1854,
+        "totalPopulation": 2477955,
+        "perCapita": 7.48
+      },
+      "783": {
+        "totalEstablishments": 3466,
+        "totalPopulation": 2477955,
+        "perCapita": 13.99
+      },
+      "823": {
+        "totalEstablishments": 865,
+        "totalPopulation": 2477955,
+        "perCapita": 3.49
+      },
+      "832": {
+        "totalEstablishments": 1713,
+        "totalPopulation": 2477955,
+        "perCapita": 6.91
+      },
+      "833": {
+        "totalEstablishments": 1207,
+        "totalPopulation": 2477955,
+        "perCapita": 4.87
+      },
+      "835": {
+        "totalEstablishments": 1424,
+        "totalPopulation": 2477955,
+        "perCapita": 5.75
+      }
+    },
+    "44": {
+      "76": {
+        "totalEstablishments": 4775,
+        "totalPopulation": 1124597,
+        "perCapita": 42.46
+      },
+      "682": {
+        "totalEstablishments": 340,
+        "totalPopulation": 1124597,
+        "perCapita": 3.02
+      },
+      "782": {
+        "totalEstablishments": 941,
+        "totalPopulation": 1124597,
+        "perCapita": 8.37
+      },
+      "783": {
+        "totalEstablishments": 1852,
+        "totalPopulation": 1124597,
+        "perCapita": 16.47
+      },
+      "823": {
+        "totalEstablishments": 415,
+        "totalPopulation": 1124597,
+        "perCapita": 3.69
+      },
+      "832": {
+        "totalEstablishments": 746,
+        "totalPopulation": 1124597,
+        "perCapita": 6.63
+      },
+      "833": {
+        "totalEstablishments": 506,
+        "totalPopulation": 1124597,
+        "perCapita": 4.5
+      },
+      "835": {
+        "totalEstablishments": 731,
+        "totalPopulation": 1124597,
+        "perCapita": 6.5
+      }
+    },
+    "45": {
+      "76": {
+        "totalEstablishments": 5538,
+        "totalPopulation": 1070213,
+        "perCapita": 51.75
+      },
+      "682": {
+        "totalEstablishments": 382,
+        "totalPopulation": 1070213,
+        "perCapita": 3.57
+      },
+      "782": {
+        "totalEstablishments": 959,
+        "totalPopulation": 1070213,
+        "perCapita": 8.96
+      },
+      "783": {
+        "totalEstablishments": 1980,
+        "totalPopulation": 1070213,
+        "perCapita": 18.5
+      },
+      "823": {
+        "totalEstablishments": 403,
+        "totalPopulation": 1070213,
+        "perCapita": 3.77
+      },
+      "832": {
+        "totalEstablishments": 698,
+        "totalPopulation": 1070213,
+        "perCapita": 6.52
+      },
+      "833": {
+        "totalEstablishments": 480,
+        "totalPopulation": 1070213,
+        "perCapita": 4.49
+      },
+      "835": {
+        "totalEstablishments": 725,
+        "totalPopulation": 1070213,
+        "perCapita": 6.77
+      }
+    },
+    "46": {
+      "76": {
+        "totalEstablishments": 6779,
+        "totalPopulation": 1589206,
+        "perCapita": 42.66
+      },
+      "682": {
+        "totalEstablishments": 588,
+        "totalPopulation": 1589206,
+        "perCapita": 3.7
+      },
+      "782": {
+        "totalEstablishments": 1322,
+        "totalPopulation": 1589206,
+        "perCapita": 8.32
+      },
+      "783": {
+        "totalEstablishments": 2584,
+        "totalPopulation": 1589206,
+        "perCapita": 16.26
+      },
+      "823": {
+        "totalEstablishments": 556,
+        "totalPopulation": 1589206,
+        "perCapita": 3.5
+      },
+      "832": {
+        "totalEstablishments": 1079,
+        "totalPopulation": 1589206,
+        "perCapita": 6.79
+      },
+      "833": {
+        "totalEstablishments": 787,
+        "totalPopulation": 1589206,
+        "perCapita": 4.95
+      },
+      "835": {
+        "totalEstablishments": 1174,
+        "totalPopulation": 1589206,
+        "perCapita": 7.39
+      }
+    },
+    "47": {
+      "76": {
+        "totalEstablishments": 8522,
+        "totalPopulation": 1468410,
+        "perCapita": 58.04
+      },
+      "682": {
+        "totalEstablishments": 620,
+        "totalPopulation": 1468410,
+        "perCapita": 4.22
+      },
+      "782": {
+        "totalEstablishments": 940,
+        "totalPopulation": 1468410,
+        "perCapita": 6.4
+      },
+      "783": {
+        "totalEstablishments": 2062,
+        "totalPopulation": 1468410,
+        "perCapita": 14.04
+      },
+      "823": {
+        "totalEstablishments": 861,
+        "totalPopulation": 1468410,
+        "perCapita": 5.86
+      },
+      "832": {
+        "totalEstablishments": 754,
+        "totalPopulation": 1468410,
+        "perCapita": 5.13
+      },
+      "833": {
+        "totalEstablishments": 592,
+        "totalPopulation": 1468410,
+        "perCapita": 4.03
+      },
+      "835": {
+        "totalEstablishments": 664,
+        "totalPopulation": 1468410,
+        "perCapita": 4.52
+      }
+    },
+    "01": {
+      "76": {
+        "totalEstablishments": 29755,
+        "totalPopulation": 7203950,
+        "perCapita": 41.3
+      },
+      "682": {
+        "totalEstablishments": 2223,
+        "totalPopulation": 7203950,
+        "perCapita": 3.09
+      },
+      "782": {
+        "totalEstablishments": 5651,
+        "totalPopulation": 7203950,
+        "perCapita": 7.84
+      },
+      "783": {
+        "totalEstablishments": 9059,
+        "totalPopulation": 7203950,
+        "perCapita": 12.58
+      },
+      "823": {
+        "totalEstablishments": 2199,
+        "totalPopulation": 7203950,
+        "perCapita": 3.05
+      },
+      "832": {
+        "totalEstablishments": 3717,
+        "totalPopulation": 7203950,
+        "perCapita": 5.16
+      },
+      "833": {
+        "totalEstablishments": 3861,
+        "totalPopulation": 7203950,
+        "perCapita": 5.36
+      },
+      "835": {
+        "totalEstablishments": 4038,
+        "totalPopulation": 7203950,
+        "perCapita": 5.61
+      }
+    },
+    "02": {
+      "76": {
+        "totalEstablishments": 5586,
+        "totalPopulation": 1238730,
+        "perCapita": 45.09
+      },
+      "682": {
+        "totalEstablishments": 254,
+        "totalPopulation": 1238730,
+        "perCapita": 2.05
+      },
+      "782": {
+        "totalEstablishments": 1568,
+        "totalPopulation": 1238730,
+        "perCapita": 12.66
+      },
+      "783": {
+        "totalEstablishments": 2306,
+        "totalPopulation": 1238730,
+        "perCapita": 18.62
+      },
+      "823": {
+        "totalEstablishments": 407,
+        "totalPopulation": 1238730,
+        "perCapita": 3.29
+      },
+      "832": {
+        "totalEstablishments": 639,
+        "totalPopulation": 1238730,
+        "perCapita": 5.16
+      },
+      "833": {
+        "totalEstablishments": 489,
+        "totalPopulation": 1238730,
+        "perCapita": 3.95
+      },
+      "835": {
+        "totalEstablishments": 689,
+        "totalPopulation": 1238730,
+        "perCapita": 5.56
+      }
+    },
+    "03": {
+      "76": {
+        "totalEstablishments": 4805,
+        "totalPopulation": 1211206,
+        "perCapita": 39.67
+      },
+      "682": {
+        "totalEstablishments": 237,
+        "totalPopulation": 1211206,
+        "perCapita": 1.96
+      },
+      "782": {
+        "totalEstablishments": 1488,
+        "totalPopulation": 1211206,
+        "perCapita": 12.29
+      },
+      "783": {
+        "totalEstablishments": 2048,
+        "totalPopulation": 1211206,
+        "perCapita": 16.91
+      },
+      "823": {
+        "totalEstablishments": 320,
+        "totalPopulation": 1211206,
+        "perCapita": 2.64
+      },
+      "832": {
+        "totalEstablishments": 660,
+        "totalPopulation": 1211206,
+        "perCapita": 5.45
+      },
+      "833": {
+        "totalEstablishments": 552,
+        "totalPopulation": 1211206,
+        "perCapita": 4.56
+      },
+      "835": {
+        "totalEstablishments": 622,
+        "totalPopulation": 1211206,
+        "perCapita": 5.14
+      }
+    },
+    "04": {
+      "76": {
+        "totalEstablishments": 12993,
+        "totalPopulation": 3400683,
+        "perCapita": 38.21
+      },
+      "682": {
+        "totalEstablishments": 1368,
+        "totalPopulation": 3400683,
+        "perCapita": 4.02
+      },
+      "782": {
+        "totalEstablishments": 2746,
+        "totalPopulation": 3400683,
+        "perCapita": 8.07
+      },
+      "783": {
+        "totalEstablishments": 4414,
+        "totalPopulation": 3400683,
+        "perCapita": 12.98
+      },
+      "823": {
+        "totalEstablishments": 1303,
+        "totalPopulation": 3400683,
+        "perCapita": 3.83
+      },
+      "832": {
+        "totalEstablishments": 2140,
+        "totalPopulation": 3400683,
+        "perCapita": 6.29
+      },
+      "833": {
+        "totalEstablishments": 1583,
+        "totalPopulation": 3400683,
+        "perCapita": 4.65
+      },
+      "835": {
+        "totalEstablishments": 1971,
+        "totalPopulation": 3400683,
+        "perCapita": 5.8
+      }
+    },
+    "05": {
+      "76": {
+        "totalEstablishments": 3929,
+        "totalPopulation": 960113,
+        "perCapita": 40.92
+      },
+      "682": {
+        "totalEstablishments": 161,
+        "totalPopulation": 960113,
+        "perCapita": 1.68
+      },
+      "782": {
+        "totalEstablishments": 1636,
+        "totalPopulation": 960113,
+        "perCapita": 17.04
+      },
+      "783": {
+        "totalEstablishments": 2116,
+        "totalPopulation": 960113,
+        "perCapita": 22.04
+      },
+      "823": {
+        "totalEstablishments": 317,
+        "totalPopulation": 960113,
+        "perCapita": 3.3
+      },
+      "832": {
+        "totalEstablishments": 566,
+        "totalPopulation": 960113,
+        "perCapita": 5.9
+      },
+      "833": {
+        "totalEstablishments": 421,
+        "totalPopulation": 960113,
+        "perCapita": 4.38
+      },
+      "835": {
+        "totalEstablishments": 554,
+        "totalPopulation": 960113,
+        "perCapita": 5.77
+      }
+    },
+    "06": {
+      "76": {
+        "totalEstablishments": 4816,
+        "totalPopulation": 1068696,
+        "perCapita": 45.06
+      },
+      "682": {
+        "totalEstablishments": 227,
+        "totalPopulation": 1068696,
+        "perCapita": 2.12
+      },
+      "782": {
+        "totalEstablishments": 1676,
+        "totalPopulation": 1068696,
+        "perCapita": 15.68
+      },
+      "783": {
+        "totalEstablishments": 2200,
+        "totalPopulation": 1068696,
+        "perCapita": 20.59
+      },
+      "823": {
+        "totalEstablishments": 340,
+        "totalPopulation": 1068696,
+        "perCapita": 3.18
+      },
+      "832": {
+        "totalEstablishments": 701,
+        "totalPopulation": 1068696,
+        "perCapita": 6.56
+      },
+      "833": {
+        "totalEstablishments": 470,
+        "totalPopulation": 1068696,
+        "perCapita": 4.4
+      },
+      "835": {
+        "totalEstablishments": 696,
+        "totalPopulation": 1068696,
+        "perCapita": 6.51
+      }
+    },
+    "07": {
+      "76": {
+        "totalEstablishments": 6741,
+        "totalPopulation": 1834198,
+        "perCapita": 36.75
+      },
+      "682": {
+        "totalEstablishments": 497,
+        "totalPopulation": 1834198,
+        "perCapita": 2.71
+      },
+      "782": {
+        "totalEstablishments": 1986,
+        "totalPopulation": 1834198,
+        "perCapita": 10.83
+      },
+      "783": {
+        "totalEstablishments": 2920,
+        "totalPopulation": 1834198,
+        "perCapita": 15.92
+      },
+      "823": {
+        "totalEstablishments": 695,
+        "totalPopulation": 1834198,
+        "perCapita": 3.79
+      },
+      "832": {
+        "totalEstablishments": 1027,
+        "totalPopulation": 1834198,
+        "perCapita": 5.6
+      },
+      "833": {
+        "totalEstablishments": 806,
+        "totalPopulation": 1834198,
+        "perCapita": 4.39
+      },
+      "835": {
+        "totalEstablishments": 1113,
+        "totalPopulation": 1834198,
+        "perCapita": 6.07
+      }
+    },
+    "08": {
+      "76": {
+        "totalEstablishments": 9253,
+        "totalPopulation": 2868554,
+        "perCapita": 32.26
+      },
+      "682": {
+        "totalEstablishments": 635,
+        "totalPopulation": 2868554,
+        "perCapita": 2.21
+      },
+      "782": {
+        "totalEstablishments": 2744,
+        "totalPopulation": 2868554,
+        "perCapita": 9.57
+      },
+      "783": {
+        "totalEstablishments": 3814,
+        "totalPopulation": 2868554,
+        "perCapita": 13.3
+      },
+      "823": {
+        "totalEstablishments": 1062,
+        "totalPopulation": 2868554,
+        "perCapita": 3.7
+      },
+      "832": {
+        "totalEstablishments": 1339,
+        "totalPopulation": 2868554,
+        "perCapita": 4.67
+      },
+      "833": {
+        "totalEstablishments": 1317,
+        "totalPopulation": 2868554,
+        "perCapita": 4.59
+      },
+      "835": {
+        "totalEstablishments": 1475,
+        "totalPopulation": 2868554,
+        "perCapita": 5.14
+      }
+    },
+    "09": {
+      "76": {
+        "totalEstablishments": 7329,
+        "totalPopulation": 1934016,
+        "perCapita": 37.9
+      },
+      "682": {
+        "totalEstablishments": 518,
+        "totalPopulation": 1934016,
+        "perCapita": 2.68
+      },
+      "782": {
+        "totalEstablishments": 1649,
+        "totalPopulation": 1934016,
+        "perCapita": 8.53
+      },
+      "783": {
+        "totalEstablishments": 2838,
+        "totalPopulation": 1934016,
+        "perCapita": 14.67
+      },
+      "823": {
+        "totalEstablishments": 826,
+        "totalPopulation": 1934016,
+        "perCapita": 4.27
+      },
+      "832": {
+        "totalEstablishments": 1126,
+        "totalPopulation": 1934016,
+        "perCapita": 5.82
+      },
+      "833": {
+        "totalEstablishments": 926,
+        "totalPopulation": 1934016,
+        "perCapita": 4.79
+      },
+      "835": {
+        "totalEstablishments": 1177,
+        "totalPopulation": 1934016,
+        "perCapita": 6.09
+      }
+    }
+  }
+}
