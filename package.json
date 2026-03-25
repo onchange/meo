@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "dev": "npx serve",
-    "build": "cp -r public dist"
+    "sync-data": "cp data/municipalities.json data/census_businesses.json data/census_population.json data/averages.json public/data/",
+    "deploy": "npm run sync-data && npx wrangler pages deploy public --project-name meo-potential --commit-dirty=true"
   }
 }

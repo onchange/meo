@@ -2,6 +2,6 @@ node_modules/
 .env
 dist/
 .claude/
+.wrangler/
 .DS_Store
-*.txt
-!*.md
+scripts/*-output.txt
