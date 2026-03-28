@@ -201,7 +201,7 @@ function showReport() {
   });
 
   if (muni.lat && muni.lng) {
-    renderAreaMap(muni.lat, muni.lng, muniName, industryName, count);
+    renderAreaMap(muni.lat, muni.lng, muniName, industryCode, industryName, count);
     document.querySelector(".card--map").hidden = false;
   } else {
     document.querySelector(".card--map").hidden = true;
